@@ -15,7 +15,7 @@ const Home = ({ currentUser, tickets }) => {
   ))
 
   return (
-    <div className="container">
+    <div className="container mt-4">
       <h1>Tickets</h1>
       <table className="table table-striped">
         <thead>
